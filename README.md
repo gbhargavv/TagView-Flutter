@@ -42,4 +42,4 @@ TagView(_tags,
 
 ## Usage
 
-![Screenshot](https://github.com/gbhargavv/FlutterTagView/blob/master/tag_view/images/example.gif)
+![Screenshot](https://github.com/gbhargavv/TagView-Flutter/blob/main/images/example.gif)

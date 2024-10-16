@@ -1,8 +1,10 @@
 name: tag_view
 description: Flutter TagView(Hashtag view)
-version: 0.0.10
-homepage: https://github.com/gbhargavv/FlutterTagView
-repository: https://github.com/gbhargavv/FlutterTagView/tree/master/tag_view
+version: 1.0.1
+# homepage: https://github.com/gbhargavv/FlutterTagView
+# repository: https://github.com/gbhargavv/FlutterTagView/tree/master/tag_view
+homepage: https://github.com/gbhargavv/TagView-Flutter
+repository: https://github.com/gbhargavv/TagView-Flutter
 
 environment:
   sdk: '>=3.0.2 <4.0.0'
